@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-**Thinkspace** is just another minimalist Jekyll theme that focuses on technical writing. Designed for engineers to write their ranting and findings.
+This is the site for publishing certificates for devices and users at *The Eyrie*. 
+
+If you wish to exchange encrypted emails with users here, you’re at the right place.

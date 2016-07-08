@@ -1,11 +1,11 @@
 
 # SEO settings
-title: "Certifiable"
+title: "We're Certifiable"
 # title2: "" # default: ""
 description: "Eyrie ⎈ PKI News and distribution"
 keywords: "x509, certificates, pki, kvet.ch, crl, email"
-# url: https://pki.kvet.ch # site url
-url: http://localhost # site url
+url: https://pki.kvet.ch # site url
+#url: http://localhost # site url
 
 # baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io

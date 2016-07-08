@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
 .bundle/
+s3_website.yml
 
 # Windows image file caches
 Thumbs.db
